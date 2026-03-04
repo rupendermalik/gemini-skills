@@ -43,8 +43,8 @@ You can browse and install skills using either the [Vercel skills CLI](https://s
 # Interactively browse and install skills.
 npx skills add google-gemini/gemini-skills --list
 
-# Install a specific skill (e.g., vertex-ai-api-dev).
-npx skills add google-gemini/gemini-skills --skill vertex-ai-api-dev --global
+# Install a specific skill (e.g., gemini-api-dev).
+npx skills add google-gemini/gemini-skills --skill gemini-api-dev --global
 ```
 
 ### Using [Context7 skills CLI](https://context7.com)
